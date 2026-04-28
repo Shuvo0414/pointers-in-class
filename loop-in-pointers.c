@@ -6,6 +6,5 @@ int main()
     {
         printf("%p\n", &myNumbers[i]);
     }
-
     return 0;
 }
