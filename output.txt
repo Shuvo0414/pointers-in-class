@@ -1,3 +1,8 @@
-Address of number variable is 0x16bdc2bd8
-Address of p variable is 0x16bdc2bd8
-Value of p variable is 50
+
+Address of var: 1829694424
+Address of var is : 1829694424
+Address of pointer p is: 1829694416
+Address of pointer p is: 1829694424
+Value of var: 10
+ Address of var is: 10
+ Address of var is: 10
