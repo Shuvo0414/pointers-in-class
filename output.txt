@@ -1,8 +1,4 @@
-
-Address of var: 1829694424
-Address of var is : 1829694424
-Address of pointer p is: 1829694416
-Address of pointer p is: 1829694424
-Value of var: 10
- Address of var is: 10
- Address of var is: 10
+0x16f902bb0
+0x16f902bb4
+0x16f902bb8
+0x16f902bbc
