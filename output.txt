@@ -1,0 +1,3 @@
+Address of number variable is 0x16bdc2bd8
+Address of p variable is 0x16bdc2bd8
+Value of p variable is 50
