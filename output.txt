@@ -1,5 +1,5 @@
-0x16db16b80
-0x16db16b84
-0x16db16b88
-0x16db16b78
-0x16db16b79
+Address of number variable is 0x16fb0abb8
+Address of p variable is 0x16fb0abb8
+Address of *p variable is 50
+Address of p2 variable is 0x16fb0abb0
+Address of **p2 variable is 50
