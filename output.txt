@@ -1,5 +1,1 @@
-Address of number variable is 0x16fb0abb8
-Address of p variable is 0x16fb0abb8
-Address of *p variable is 50
-Address of p2 variable is 0x16fb0abb0
-Address of **p2 variable is 50
+10
