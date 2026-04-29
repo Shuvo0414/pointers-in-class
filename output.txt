@@ -1,2 +1,2 @@
-13
-17
+Enter 6 numbrs: 
+sum = 29 
