@@ -1,2 +1,4 @@
-Address of p variable is 0x16ba36bc8
-After increment: Address of p variable is 0x16ba36bd4
+10
+20
+10
+30
