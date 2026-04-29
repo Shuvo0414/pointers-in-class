@@ -1,2 +1,2 @@
-Enter 6 numbrs: 
-sum = 29 
+Address of p variable is 0x16b5b6bd8
+After increment: Address of p variable is 0x16b5b6bdc
